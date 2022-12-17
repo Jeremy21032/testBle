@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bluetoothAnd12",
+    "slug": "bluetoothAnd12",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bluetoothAnd12"
+}
